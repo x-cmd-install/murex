@@ -7,7 +7,7 @@ about:
   head: 8678ad8
   archived: false
   latestVersion: v7.2.1001
-  collectedAt: 2026-09-04T19:27:43Z
+  collectedAt: 2026-09-04T21:05:35Z
 timeline:
   created: 2017-03-26
   lastCommit: 2026-02-02
@@ -87,6 +87,74 @@ total:
   openIssue: 84
   commit: 4620
 ---
+path: /home/runner/.x-repo/github.com/lmorg/murex
+collectedAt: 2026-09-04T21:05:39Z
+loc:
+  Go:
+    code: 83210
+    comments: 4959
+    blanks: 14497
+    files: 1101
+  Yaml:
+    code: 18157
+    comments: 544
+    blanks: 1944
+    files: 245
+  Json:
+    code: 1542
+    comments: 0
+    blanks: 0
+    files: 5
+  Css:
+    code: 332
+    comments: 0
+    blanks: 52
+    files: 1
+  TypeScript:
+    code: 226
+    comments: 77
+    blanks: 28
+    files: 4
+  Sass:
+    code: 215
+    comments: 23
+    blanks: 66
+    files: 4
+  Svg:
+    code: 143
+    comments: 4
+    blanks: 1
+    files: 9
+  Makefile:
+    code: 126
+    comments: 19
+    blanks: 21
+    files: 1
+  Sh:
+    code: 106
+    comments: 9
+    blanks: 47
+    files: 5
+  Html:
+    code: 84
+    comments: 38
+    blanks: 22
+    files: 3
+  Markdown:
+    code: 0
+    comments: 29997
+    blanks: 11141
+    files: 426
+  Text:
+    code: 0
+    comments: 1777
+    blanks: 818
+    files: 11
+total:
+  code: 106159
+  comments: 37610
+  blanks: 29035
+  files: 1815
 ---
 date: "2026-08-24"
 repo:
