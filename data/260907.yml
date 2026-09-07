@@ -5,13 +5,13 @@ about:
   head: 8678ad8
   archived: false
   latestVersion: "v7.2.1001"
-  collectedAt: 2026-09-07T05:47:38Z
+  collectedAt: 2026-09-07T18:58:11Z
 timeline:
   created: 2017-03-26
   lastCommit: 2026-02-02
   lastRelease: 2026-02-02
 popularity:
-  star: 1912
+  star: 1913
   watcher: 18
   fork: 40
   release: 53
@@ -86,7 +86,7 @@ total:
   commit: 4620
 ---
 path: /home/runner/.x-repo/github.com/lmorg/murex
-collectedAt: 2026-09-07T05:47:47Z
+collectedAt: 2026-09-07T18:58:19Z
 loc:
   Go:
     code: 83210
@@ -269,7 +269,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:47:49+00:00
+  collectedAt: 2026-09-07T18:58:20+00:00
   platform:
     darwin/arm64:
       name:  null
