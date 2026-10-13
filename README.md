@@ -18,7 +18,7 @@ Total: **104,695** lines of code across **1359** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,737 | 4,997 | 14,562 | 1103 |
+| Go | 83,737 | 5,031 | 14,563 | 1103 |
 | Yaml | 18,184 | 544 | 1,946 | 246 |
 | Json | 1,542 | 0 | 0 | 5 |
 | Css | 332 | 0 | 52 | 1 |
@@ -26,11 +26,11 @@ Total: **104,695** lines of code across **1359** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
+- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.3.1231` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Latest**: `v7.3.1232` (2026-10-12)
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 1,918 · **Forks**: 42 · **Open issues**: 460 · **Contributors**: 16
+- **Stars**: 1,919 · **Forks**: 42 · **Open issues**: 460 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 445 · **Open PRs**: 0 · **Closed issues**: 377 · **Open issues**: 83 · **Commits**: 4670
+- **Releases**: 55 · **Merged PRs**: 446 · **Open PRs**: 0 · **Closed issues**: 378 · **Open issues**: 82 · **Commits**: 4672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 0 | 0 | 0 | 1 | 6 |
-| last60d | 2026-08-13 | 1 | 4 | 0 | 0 | 2 | 17 |
-| 90d | 2026-07-14 | 1 | 4 | 0 | 0 | 2 | 17 |
-| last180d | 2026-04-15 | 1 | 6 | 0 | 1 | 4 | 29 |
-| 360d | 2025-10-17 | 3 | 23 | 0 | 8 | 14 | 88 |
-| last720d | 2024-10-22 | 7 | 41 | 0 | 21 | 17 | 432 |
+| 30d | 2026-09-13 | 2 | 1 | 0 | 1 | 0 | 7 |
+| last60d | 2026-08-14 | 2 | 5 | 0 | 1 | 1 | 18 |
+| 90d | 2026-07-15 | 2 | 5 | 0 | 1 | 1 | 18 |
+| last180d | 2026-04-16 | 2 | 7 | 0 | 2 | 2 | 30 |
+| 360d | 2025-10-18 | 4 | 24 | 0 | 8 | 13 | 89 |
+| last720d | 2024-10-23 | 8 | 42 | 0 | 22 | 16 | 433 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:07:20Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:03:28Z._
