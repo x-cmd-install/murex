@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,920 · **Forks**: 42 · **Open issues**: 460 · **Contributors**: 16
+- **Stars**: 1,922 · **Forks**: 42 · **Open issues**: 462 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 446 · **Open PRs**: 0 · **Closed issues**: 378 · **Open issues**: 82 · **Commits**: 4672
+- **Releases**: 55 · **Merged PRs**: 447 · **Open PRs**: 2 · **Closed issues**: 378 · **Open issues**: 84 · **Commits**: 4672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 1 | 0 | 1 | 0 | 7 |
-| last60d | 2026-08-15 | 2 | 5 | 0 | 1 | 1 | 18 |
-| 90d | 2026-07-16 | 2 | 5 | 0 | 1 | 1 | 18 |
-| last180d | 2026-04-17 | 2 | 7 | 0 | 2 | 2 | 30 |
-| 360d | 2025-10-19 | 4 | 23 | 0 | 8 | 13 | 89 |
-| last720d | 2024-10-24 | 8 | 42 | 0 | 22 | 16 | 433 |
+| 30d | 2026-09-15 | 2 | 2 | 2 | 1 | 2 | 7 |
+| last60d | 2026-08-16 | 2 | 6 | 2 | 1 | 3 | 18 |
+| 90d | 2026-07-17 | 2 | 6 | 2 | 1 | 3 | 18 |
+| last180d | 2026-04-18 | 2 | 8 | 2 | 2 | 4 | 30 |
+| 360d | 2025-10-20 | 4 | 24 | 2 | 8 | 15 | 89 |
+| last720d | 2024-10-25 | 8 | 43 | 2 | 22 | 18 | 430 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:56:39Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:36:42Z._
