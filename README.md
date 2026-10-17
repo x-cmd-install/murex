@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 447 · **Open PRs**: 2 · **Closed issues**: 378 · **Open issues**: 84 · **Commits**: 4672
+- **Releases**: 55 · **Merged PRs**: 448 · **Open PRs**: 1 · **Closed issues**: 378 · **Open issues**: 84 · **Commits**: 4672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 2 | 2 | 1 | 2 | 7 |
-| last60d | 2026-08-17 | 2 | 6 | 2 | 1 | 3 | 18 |
-| 90d | 2026-07-18 | 2 | 6 | 2 | 1 | 3 | 18 |
-| last180d | 2026-04-19 | 2 | 8 | 2 | 2 | 4 | 30 |
-| 360d | 2025-10-21 | 4 | 24 | 2 | 8 | 15 | 89 |
-| last720d | 2024-10-26 | 8 | 43 | 2 | 22 | 18 | 430 |
+| 30d | 2026-09-17 | 2 | 3 | 1 | 1 | 2 | 7 |
+| last60d | 2026-08-18 | 2 | 7 | 1 | 1 | 3 | 18 |
+| 90d | 2026-07-19 | 2 | 7 | 1 | 1 | 3 | 18 |
+| last180d | 2026-04-20 | 2 | 9 | 1 | 2 | 4 | 30 |
+| 360d | 2025-10-22 | 4 | 25 | 1 | 8 | 15 | 89 |
+| last720d | 2024-10-27 | 8 | 44 | 1 | 22 | 18 | 430 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:32:13Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:21:57Z._
