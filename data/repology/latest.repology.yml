@@ -1,17 +1,27 @@
-- repo: rpmsphere
+- repo: nix_stable_25_05
   srcname: murex
-  binnames:
-    - murex
-    - murex-debuginfo
   visiblename: murex
-  version: 6.3.4225
-  origversion: 6.3.4225-1
+  version: 6.4.2063
+  origversion: null
   status: outdated
-  summary: Bash-like shell and scripting environment
+  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
   licenses:
-    - GPL-2
-  categories:
-    - Development/Language
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: murex
+  visiblename: murex
+  version: 7.0.2107
+  origversion: null
+  status: outdated
+  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - GPL-2.0-only
 - repo: alpine_3_23
   subrepo: community
   srcname: murex
@@ -166,30 +176,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: murex
-  visiblename: murex
-  version: 6.4.2063
-  origversion: null
-  status: outdated
-  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: murex
-  visiblename: murex
-  version: 7.0.2107
-  origversion: null
-  status: outdated
-  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - GPL-2.0-only
 - repo: nix_stable_26_05
   srcname: murex
   visiblename: murex
@@ -204,7 +190,7 @@
 - repo: nix_unstable
   srcname: murex
   visiblename: murex
-  version: 7.2.1001
+  version: 7.3.1231
   origversion: null
   status: outdated
   summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
@@ -212,6 +198,20 @@
     - supra4keanu@hotmail.com
   licenses:
     - GPL-2.0-only
+- repo: rpmsphere
+  srcname: murex
+  binnames:
+    - murex
+    - murex-debuginfo
+  visiblename: murex
+  version: 6.3.4225
+  origversion: 6.3.4225-1
+  status: outdated
+  summary: Bash-like shell and scripting environment
+  licenses:
+    - GPL-2
+  categories:
+    - Development/Language
 - repo: tur
   srcname: murex
   binname: murex
