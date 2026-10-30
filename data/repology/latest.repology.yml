@@ -1,27 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: murex
-  visiblename: murex
-  version: 6.4.2063
-  origversion: null
-  status: outdated
-  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: murex
-  visiblename: murex
-  version: 7.0.2107
-  origversion: null
-  status: outdated
-  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - GPL-2.0-only
 - repo: alpine_3_23
   subrepo: community
   srcname: murex
@@ -80,7 +56,7 @@
   binname: murex
   visiblename: murex
   version: 7.2.1001
-  origversion: 7.2.1001-r4
+  origversion: 7.2.1001-r5
   status: outdated
   summary: Intuitive, typed and content aware shell
   maintainers:
@@ -93,7 +69,7 @@
   binname: murex-doc
   visiblename: murex-doc
   version: 7.2.1001
-  origversion: 7.2.1001-r4
+  origversion: 7.2.1001-r5
   status: outdated
   summary: Intuitive, typed and content aware shell (documentation)
   maintainers:
@@ -168,6 +144,30 @@
   srcname: murex
   visiblename: murex
   version: 6.3.4225
+  origversion: null
+  status: outdated
+  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_05
+  srcname: murex
+  visiblename: murex
+  version: 6.4.2063
+  origversion: null
+  status: outdated
+  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: murex
+  visiblename: murex
+  version: 7.0.2107
   origversion: null
   status: outdated
   summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
