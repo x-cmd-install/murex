@@ -14,12 +14,12 @@ x install murex
 
 ## Code insight
 
-Total: **104,695** lines of code across **1359** files in the top 5 languages.
+Total: **104,855** lines of code across **1357** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,737 | 5,031 | 14,563 | 1103 |
-| Yaml | 18,184 | 544 | 1,946 | 246 |
+| Go | 83,884 | 5,061 | 14,474 | 1100 |
+| Yaml | 18,197 | 544 | 1,946 | 247 |
 | Json | 1,542 | 0 | 0 | 5 |
 | Css | 332 | 0 | 52 | 1 |
 | TypeScript | 226 | 77 | 28 | 4 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.3.1232` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 449 · **Open PRs**: 1 · **Closed issues**: 378 · **Open issues**: 85 · **Commits**: 4672
+- **Releases**: 55 · **Merged PRs**: 450 · **Open PRs**: 0 · **Closed issues**: 381 · **Open issues**: 82 · **Commits**: 4692
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 4 | 1 | 1 | 3 | 7 |
-| last60d | 2026-09-03 | 2 | 4 | 1 | 1 | 3 | 7 |
-| 90d | 2026-08-04 | 2 | 8 | 1 | 1 | 4 | 18 |
-| last180d | 2026-05-06 | 2 | 10 | 1 | 2 | 5 | 30 |
-| 360d | 2025-11-07 | 3 | 25 | 1 | 7 | 13 | 61 |
-| last720d | 2024-11-12 | 8 | 45 | 1 | 22 | 19 | 426 |
+| 30d | 2026-10-04 | 2 | 5 | 0 | 4 | 0 | 19 |
+| last60d | 2026-09-04 | 2 | 5 | 0 | 4 | 0 | 19 |
+| 90d | 2026-08-05 | 2 | 9 | 0 | 4 | 1 | 30 |
+| last180d | 2026-05-07 | 2 | 11 | 0 | 5 | 2 | 42 |
+| 360d | 2025-11-08 | 3 | 26 | 0 | 10 | 10 | 73 |
+| last720d | 2024-11-13 | 8 | 46 | 0 | 25 | 16 | 446 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:13:45Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:59:03Z._
