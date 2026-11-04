@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/lmorg/murex/releases/411081683",
-  "assets_url": "https://api.github.com/repos/lmorg/murex/releases/411081683/assets",
-  "upload_url": "https://uploads.github.com/repos/lmorg/murex/releases/411081683/assets{?name,label}",
-  "html_url": "https://github.com/lmorg/murex/releases/tag/v7.3.1232",
-  "id": 411081683,
+  "url": "https://api.github.com/repos/lmorg/murex/releases/432480528",
+  "assets_url": "https://api.github.com/repos/lmorg/murex/releases/432480528/assets",
+  "upload_url": "https://uploads.github.com/repos/lmorg/murex/releases/432480528/assets{?name,label}",
+  "html_url": "https://github.com/lmorg/murex/releases/tag/v7.4.1116",
+  "id": 432480528,
   "author": {
     "login": "lmorg",
     "id": 12153701,
@@ -25,21 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBSQPns4YgJvT",
-  "tag_name": "v7.3.1232",
+  "node_id": "RE_kwDOBSQPns4ZxyEQ",
+  "tag_name": "v7.4.1116",
   "target_commitish": "master",
-  "name": "v7.3.1232",
+  "name": "v7.4.1116",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-12T23:45:07Z",
-  "updated_at": "2026-10-12T23:46:21Z",
-  "published_at": "2026-10-12T23:46:21Z",
+  "created_at": "2026-11-02T22:32:40Z",
+  "updated_at": "2026-11-03T09:15:44Z",
+  "published_at": "2026-11-03T09:15:44Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/lmorg/murex/tarball/v7.3.1232",
-  "zipball_url": "https://api.github.com/repos/lmorg/murex/zipball/v7.3.1232",
-  "body": "## What's Changed\r\n* bugfix: crash with unset NOT scalar (1003) by @lmorg in https://github.com/lmorg/murex/pull/1004\r\n\r\n\r\n**Full Changelog**: https://github.com/lmorg/murex/compare/v7.3.1231...v7.3.1232",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/lmorg/murex/tarball/v7.4.1116",
+  "zipball_url": "https://api.github.com/repos/lmorg/murex/zipball/v7.4.1116",
+  "body": "## Breaking Changes\r\n\r\nNone\r\n\r\n## v7.4.xxxx\r\n\r\n### Features\r\n\r\n* terminal: add OSC 133/633 terminal integrations with prompt and command markers, working-directory reporting, VS Code shell integration, and Ttyphoon command output blocks\r\n* examples: add an example demonstrating directed acyclic graphs\r\n\r\n### Bug Fixes\r\n\r\n* expressions: fix parsing of negative variables ([issue #1005](https://github.com/lmorg/murex/issues/1005), [@tiymat](https://github.com/tiymat))\r\n* expressions: safely handle empty array subshells and invalid function output ([issue #1010](https://github.com/lmorg/murex/issues/1010), [@SAY-5](https://github.com/SAY-5))\r\n* ANSI: correct common escape-code constants, including CRLF ([issue #1007](https://github.com/lmorg/murex/issues/1007))\r\n* expressions: handle errors from logical-NOT variables without nil dereferences ([issue #1003](https://github.com/lmorg/murex/issues/1003))\r\n\r\n## Special Thanks\r\n\r\nThank you to everyone in the [discussions group](https://github.com/lmorg/murex/discussions) and all who raise bug reports.\r\n\r\nYou rock!",
+  "discussion_url": "https://github.com/lmorg/murex/discussions/1012",
+  "reactions": {
+    "url": "https://api.github.com/repos/lmorg/murex/releases/432480528/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
