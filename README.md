@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 5 | 0 | 4 | 0 | 19 |
-| last60d | 2026-09-05 | 3 | 5 | 0 | 4 | 0 | 19 |
-| 90d | 2026-08-06 | 3 | 9 | 0 | 4 | 1 | 30 |
-| last180d | 2026-05-08 | 3 | 11 | 0 | 5 | 2 | 42 |
-| 360d | 2025-11-09 | 4 | 26 | 0 | 10 | 10 | 73 |
-| last720d | 2024-11-14 | 9 | 46 | 0 | 25 | 16 | 446 |
+| 30d | 2026-10-06 | 3 | 5 | 0 | 4 | 0 | 19 |
+| last60d | 2026-09-06 | 3 | 5 | 0 | 4 | 0 | 19 |
+| 90d | 2026-08-07 | 3 | 9 | 0 | 4 | 1 | 30 |
+| last180d | 2026-05-09 | 3 | 11 | 0 | 5 | 2 | 42 |
+| 360d | 2025-11-10 | 4 | 26 | 0 | 10 | 9 | 73 |
+| last720d | 2024-11-15 | 9 | 46 | 0 | 25 | 16 | 446 |
 
 ## Distribution status
 
@@ -71,7 +71,7 @@ Reported by **19** distros on [repology.org](https://repology.org/project/murex)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `7.4.1116` | ✅ latest |
-| Nix unstable | `7.3.1231` | ⚠️ outdated |
+| Nix unstable | `7.3.1232` | ⚠️ outdated |
 | Alpine edge | `7.2.1001` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:38:35Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:47:20Z._
