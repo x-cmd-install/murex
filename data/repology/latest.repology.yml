@@ -1,3 +1,15 @@
+- repo: nix_stable_24_05
+  srcname: murex
+  visiblename: murex
+  version: 6.0.1000
+  origversion: null
+  status: outdated
+  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - GPL-2.0
 - repo: alpine_3_23
   subrepo: community
   srcname: murex
@@ -118,9 +130,9 @@
   srcname: shells/murex
   binname: murex
   visiblename: murex
-  version: 7.3.1232
+  version: 7.4.1116
   origversion: null
-  status: outdated
+  status: newest
   summary: Bash-like $SHELL designed for greater commandline productivity and safer shell scripts
   maintainers:
     - herbygillot@github
@@ -128,18 +140,6 @@
     - GPL-2
   categories:
     - shells
-- repo: nix_stable_24_05
-  srcname: murex
-  visiblename: murex
-  version: 6.0.1000
-  origversion: null
-  status: outdated
-  summary: Bash-like shell and scripting environment with advanced features designed for safety and productivity
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - GPL-2.0
 - repo: nix_stable_24_11
   srcname: murex
   visiblename: murex
