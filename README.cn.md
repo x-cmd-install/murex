@@ -26,12 +26,12 @@ x install murex
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.3 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install murex
 
 ## 流行度
 
-- **Star**: 1,927 · **Fork**: 43 · **开放 issue**: 463 · **贡献者**: 16
+- **Star**: 1,928 · **Fork**: 43 · **开放 issue**: 463 · **贡献者**: 16
 
 ## 累计统计
 
@@ -57,16 +57,16 @@ x install murex
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 5 | 0 | 4 | 0 | 7 |
-| last60d | 2026-09-09 | 3 | 5 | 0 | 4 | 0 | 19 |
-| 90d | 2026-08-10 | 3 | 9 | 0 | 4 | 1 | 30 |
-| last180d | 2026-05-12 | 3 | 10 | 0 | 5 | 2 | 37 |
-| 360d | 2025-11-13 | 4 | 26 | 0 | 10 | 9 | 73 |
-| last720d | 2024-11-18 | 9 | 46 | 0 | 25 | 16 | 445 |
+| 30d | 2026-10-11 | 2 | 5 | 0 | 3 | 0 | 7 |
+| last60d | 2026-09-11 | 3 | 5 | 0 | 4 | 0 | 19 |
+| 90d | 2026-08-12 | 3 | 9 | 0 | 4 | 1 | 30 |
+| last180d | 2026-05-14 | 3 | 10 | 0 | 5 | 2 | 37 |
+| 360d | 2025-11-15 | 4 | 26 | 0 | 10 | 9 | 73 |
+| last720d | 2024-11-20 | 9 | 46 | 0 | 25 | 16 | 445 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/murex) 上共有 **19** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/murex) 上共有 **19** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -83,4 +83,4 @@ murex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:13:24Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:41:10Z._
