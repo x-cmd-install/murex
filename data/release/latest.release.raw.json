@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/lmorg/murex/releases/432480528",
-  "assets_url": "https://api.github.com/repos/lmorg/murex/releases/432480528/assets",
-  "upload_url": "https://uploads.github.com/repos/lmorg/murex/releases/432480528/assets{?name,label}",
-  "html_url": "https://github.com/lmorg/murex/releases/tag/v7.4.1116",
-  "id": 432480528,
+  "url": "https://api.github.com/repos/lmorg/murex/releases/440724071",
+  "assets_url": "https://api.github.com/repos/lmorg/murex/releases/440724071/assets",
+  "upload_url": "https://uploads.github.com/repos/lmorg/murex/releases/440724071/assets{?name,label}",
+  "html_url": "https://github.com/lmorg/murex/releases/tag/v7.4.2002",
+  "id": 440724071,
   "author": {
     "login": "lmorg",
     "id": 12153701,
@@ -25,33 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBSQPns4ZxyEQ",
-  "tag_name": "v7.4.1116",
+  "node_id": "RE_kwDOBSQPns4aROpn",
+  "tag_name": "v7.4.2002",
   "target_commitish": "master",
-  "name": "v7.4.1116",
+  "name": "v7.4.2002",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-02T22:32:40Z",
-  "updated_at": "2026-11-03T09:15:44Z",
-  "published_at": "2026-11-03T09:15:44Z",
+  "created_at": "2026-11-10T18:02:36Z",
+  "updated_at": "2026-11-10T18:06:22Z",
+  "published_at": "2026-11-10T18:06:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/lmorg/murex/tarball/v7.4.1116",
-  "zipball_url": "https://api.github.com/repos/lmorg/murex/zipball/v7.4.1116",
-  "body": "## Breaking Changes\r\n\r\nNone\r\n\r\n## v7.4.xxxx\r\n\r\n### Features\r\n\r\n* terminal: add OSC 133/633 terminal integrations with prompt and command markers, working-directory reporting, VS Code shell integration, and Ttyphoon command output blocks\r\n* examples: add an example demonstrating directed acyclic graphs\r\n\r\n### Bug Fixes\r\n\r\n* expressions: fix parsing of negative variables ([issue #1005](https://github.com/lmorg/murex/issues/1005), [@tiymat](https://github.com/tiymat))\r\n* expressions: safely handle empty array subshells and invalid function output ([issue #1010](https://github.com/lmorg/murex/issues/1010), [@SAY-5](https://github.com/SAY-5))\r\n* ANSI: correct common escape-code constants, including CRLF ([issue #1007](https://github.com/lmorg/murex/issues/1007))\r\n* expressions: handle errors from logical-NOT variables without nil dereferences ([issue #1003](https://github.com/lmorg/murex/issues/1003))\r\n\r\n## Special Thanks\r\n\r\nThank you to everyone in the [discussions group](https://github.com/lmorg/murex/discussions) and all who raise bug reports.\r\n\r\nYou rock!",
-  "discussion_url": "https://github.com/lmorg/murex/discussions/1012",
-  "reactions": {
-    "url": "https://api.github.com/repos/lmorg/murex/releases/432480528/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/lmorg/murex/tarball/v7.4.2002",
+  "zipball_url": "https://api.github.com/repos/lmorg/murex/zipball/v7.4.2002",
+  "body": "This is a minor release to add a workaround for Apple Terminal, which, it turns out, doesn't follow spec for APC parsing."
 }
