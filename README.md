@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.4.1116` (2026-11-03)
-- **Last commit**: 2026-11-02
+- **Latest**: `v7.4.2002` (2026-11-10)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
@@ -51,26 +51,26 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 450 · **Open PRs**: 0 · **Closed issues**: 381 · **Open issues**: 82 · **Commits**: 4692
+- **Releases**: 57 · **Merged PRs**: 451 · **Open PRs**: 0 · **Closed issues**: 381 · **Open issues**: 82 · **Commits**: 4695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 5 | 0 | 3 | 0 | 7 |
-| last60d | 2026-09-11 | 3 | 5 | 0 | 4 | 0 | 19 |
-| 90d | 2026-08-12 | 3 | 9 | 0 | 4 | 1 | 30 |
-| last180d | 2026-05-14 | 3 | 10 | 0 | 5 | 2 | 37 |
-| 360d | 2025-11-15 | 4 | 26 | 0 | 10 | 9 | 73 |
-| last720d | 2024-11-20 | 9 | 46 | 0 | 25 | 16 | 445 |
+| 30d | 2026-10-12 | 3 | 5 | 0 | 3 | 0 | 9 |
+| last60d | 2026-09-12 | 4 | 6 | 0 | 4 | 0 | 21 |
+| 90d | 2026-08-13 | 4 | 10 | 0 | 4 | 1 | 32 |
+| last180d | 2026-05-15 | 4 | 11 | 0 | 5 | 2 | 39 |
+| 360d | 2025-11-16 | 5 | 27 | 0 | 10 | 9 | 75 |
+| last720d | 2024-11-21 | 10 | 47 | 0 | 25 | 16 | 448 |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/murex). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/murex). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `7.4.1116` | ✅ latest |
+| Homebrew | `7.4.2002` | ✅ latest |
 | Nix unstable | `7.3.1232` | ⚠️ outdated |
 | Alpine edge | `7.2.1001` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:41:08Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:31:02Z._
