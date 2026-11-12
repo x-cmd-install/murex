@@ -93,7 +93,7 @@
   binname: murex
   visiblename: shells/murex
   version: 6.0.1000
-  origversion: 6.0.1000_29
+  origversion: 6.0.1000_30
   status: outdated
   summary: Shell designed for greater commandline productivity and safer shell scripts
   maintainers:
