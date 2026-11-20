@@ -37,7 +37,7 @@ Total: **104,855** lines of code across **1357** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,929 · **Forks**: 44 · **Open issues**: 464 · **Contributors**: 16
+- **Stars**: 1,928 · **Forks**: 44 · **Open issues**: 464 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,21 +47,21 @@ Total: **104,855** lines of code across **1357** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 2 | 0 | 1 | 1 | 8 |
-| last60d | 2026-09-20 | 4 | 6 | 0 | 4 | 1 | 21 |
-| 90d | 2026-08-21 | 4 | 10 | 0 | 4 | 1 | 32 |
-| last180d | 2026-05-23 | 4 | 11 | 0 | 5 | 3 | 39 |
-| 360d | 2025-11-24 | 5 | 27 | 0 | 9 | 10 | 73 |
-| last720d | 2024-11-29 | 9 | 45 | 0 | 23 | 17 | 439 |
+| 30d | 2026-10-21 | 2 | 2 | 0 | 1 | 1 | 8 |
+| last60d | 2026-09-21 | 4 | 6 | 0 | 4 | 1 | 21 |
+| 90d | 2026-08-22 | 4 | 10 | 0 | 4 | 1 | 32 |
+| last180d | 2026-05-24 | 4 | 11 | 0 | 5 | 3 | 39 |
+| 360d | 2025-11-25 | 5 | 27 | 0 | 9 | 10 | 73 |
+| last720d | 2024-11-30 | 9 | 45 | 0 | 23 | 17 | 439 |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/murex). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/murex). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `7.4.2002` | ✅ latest |
-| Nix unstable | `7.3.1232` | ⚠️ outdated |
+| Nix unstable | `7.4.2002` | ✅ latest |
 | Alpine edge | `7.2.1001` | ⚠️ outdated |
 
 ## Improve this data
@@ -73,4 +73,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:25:26Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:34:02Z._
