@@ -24,6 +24,16 @@ x install murex
 | Css | 332 | 0 | 52 | 1 |
 | TypeScript | 226 | 77 | 28 | 4 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5.4 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/lmorg/murex>
@@ -37,22 +47,32 @@ x install murex
 
 ## 流行度
 
-- **Star**: 1,929 · **Fork**: 43 · **开放 issue**: 464 · **贡献者**: 16
+- **Star**: 1,929 · **Fork**: 44 · **开放 issue**: 465 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 451 · **开放 PR**: 0 · **已关闭 issue**: 381 · **开放 issue**: 83 · **提交数**: 4695
+- **发布数**: 57 · **已合并 PR**: 451 · **开放 PR**: 1 · **已关闭 issue**: 381 · **开放 issue**: 84 · **提交数**: 4695
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 1 | 0 | 0 | 1 | 2 |
-| last60d | 2026-09-27 | 4 | 6 | 0 | 4 | 1 | 21 |
-| 90d | 2026-08-28 | 4 | 6 | 0 | 4 | 1 | 21 |
-| last180d | 2026-05-30 | 4 | 11 | 0 | 5 | 2 | 39 |
-| 360d | 2025-12-01 | 5 | 27 | 0 | 9 | 9 | 70 |
-| last720d | 2024-12-06 | 9 | 45 | 0 | 23 | 17 | 439 |
+| 30d | 2026-10-28 | 2 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-09-28 | 4 | 6 | 1 | 4 | 2 | 21 |
+| 90d | 2026-08-29 | 4 | 6 | 1 | 4 | 2 | 21 |
+| last180d | 2026-05-31 | 4 | 11 | 1 | 5 | 3 | 39 |
+| 360d | 2025-12-02 | 5 | 27 | 1 | 9 | 10 | 70 |
+| last720d | 2024-12-07 | 9 | 45 | 1 | 23 | 18 | 439 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/murex) 上共有 **19** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `7.4.2002` | ✅ latest |
+| Nix unstable | `7.4.2002` | ✅ latest |
+| Alpine edge | `7.2.1001` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -63,4 +83,4 @@ murex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:25:44Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:33:42Z._

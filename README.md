@@ -24,6 +24,16 @@ Total: **104,855** lines of code across **1357** files in the top 5 languages.
 | Css | 332 | 0 | 52 | 1 |
 | TypeScript | 226 | 77 | 28 | 4 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/lmorg/murex>
@@ -37,22 +47,32 @@ Total: **104,855** lines of code across **1357** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,929 · **Forks**: 43 · **Open issues**: 464 · **Contributors**: 16
+- **Stars**: 1,929 · **Forks**: 44 · **Open issues**: 465 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 451 · **Open PRs**: 0 · **Closed issues**: 381 · **Open issues**: 83 · **Commits**: 4695
+- **Releases**: 57 · **Merged PRs**: 451 · **Open PRs**: 1 · **Closed issues**: 381 · **Open issues**: 84 · **Commits**: 4695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 1 | 0 | 0 | 1 | 2 |
-| last60d | 2026-09-27 | 4 | 6 | 0 | 4 | 1 | 21 |
-| 90d | 2026-08-28 | 4 | 6 | 0 | 4 | 1 | 21 |
-| last180d | 2026-05-30 | 4 | 11 | 0 | 5 | 2 | 39 |
-| 360d | 2025-12-01 | 5 | 27 | 0 | 9 | 9 | 70 |
-| last720d | 2024-12-06 | 9 | 45 | 0 | 23 | 17 | 439 |
+| 30d | 2026-10-28 | 2 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-09-28 | 4 | 6 | 1 | 4 | 2 | 21 |
+| 90d | 2026-08-29 | 4 | 6 | 1 | 4 | 2 | 21 |
+| last180d | 2026-05-31 | 4 | 11 | 1 | 5 | 3 | 39 |
+| 360d | 2025-12-02 | 5 | 27 | 1 | 9 | 10 | 70 |
+| last720d | 2024-12-07 | 9 | 45 | 1 | 23 | 18 | 439 |
+
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/murex). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `7.4.2002` | ✅ latest |
+| Nix unstable | `7.4.2002` | ✅ latest |
+| Alpine edge | `7.2.1001` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +83,4 @@ Install metadata for murex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:25:43Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:33:42Z._
